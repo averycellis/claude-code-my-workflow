@@ -5,8 +5,8 @@
      Keep this file under ~150 lines — Claude loads it every session.
      See the guide at docs/workflow-guide.html for full documentation. -->
 
-**Project:** [YOUR PROJECT NAME]
-**Institution:** [YOUR INSTITUTION]
+**Project:** Avery Ellis — PhD Workflow (general-purpose: coursework, papers, analysis)
+**Institution:** UC Berkeley, Political Science
 **Branch:** main
 
 ---
@@ -158,7 +158,9 @@ Stata (`/stata-replication`), R packages (`/r-package-check`), TikZ (`/extract-t
 
 ## Current Project State
 
-| Lecture | Beamer | Quarto | Key Content |
+Just adopted (2026-08-26). No lectures/papers yet — tool stack (R / LaTeX-RMarkdown / Beamer / Quarto)
+not yet decided per-project. Update this table as real work starts.
+
+| Item | Type | Status | Key Content |
 | --- | --- | --- | --- |
-| HelloWorld *(sample — delete when ready)* | `HelloWorld.tex` | `HelloWorld.qmd` | Minimal deck to verify setup |
-| 1: [Topic] | `Lecture01_Topic.tex` | `Lecture1_Topic.qmd` | [Brief description] |
+| HelloWorld *(sample — delete when ready)* | Beamer/Quarto | untouched | Minimal deck to verify setup |
